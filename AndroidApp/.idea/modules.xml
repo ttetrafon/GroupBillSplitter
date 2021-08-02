@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Group_Bill_Splitter.iml" filepath="$PROJECT_DIR$/.idea/modules/Group_Bill_Splitter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Group_Bill_Splitter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Group_Bill_Splitter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidApp.iml" />
     </modules>
   </component>
 </project>
